@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Development and as well as pro actively efficent.
-- 📫 How to reach me (anurudhrajput93@gmail.com)
+- 📫 How to reach me (anurudh.chauhan.07@gmail.com)
 
 <!---
 canyoufindA/canyoufindA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
