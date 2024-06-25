@@ -5,6 +5,6 @@
 - 📫 How to reach me (anurudh.chauhan.07@gmail.com)
 
 <!---
-canyoufindA/canyoufindA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anurudh Kumar / Anurudh kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
